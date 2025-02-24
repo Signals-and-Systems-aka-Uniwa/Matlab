@@ -1,0 +1,5 @@
+function [a,b,c,d] = praksis (z)
+a = angle(z)
+b = abs(z)
+c = real(z)
+d = imag(z)
